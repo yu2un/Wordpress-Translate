@@ -1,1 +1,1 @@
-
+# Wordpress Translate Code
